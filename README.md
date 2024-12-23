@@ -1,4 +1,4 @@
-first
+Embedded Rust Project for ATmega328P and Arduino Uno
 =====
 
 Rust project for the _Arduino Uno_.
