@@ -1,7 +1,7 @@
 Embedded Rust Project for ATmega328P and Arduino Uno
 =====
 
-This project demonstrates the use of Rust to program an ATmega328P microcontroller for analog data acquisition and UART communication. It includes both simulation in Proteus and hardware implementation on the Arduino Uno.
+This project released by Rayen SELMI and Achref TELILI demonstrates the use of Rust to program an ATmega328P microcontroller for analog data acquisition and UART communication. It includes both simulation in Proteus and hardware implementation on the Arduino Uno.
 
 ## Features
  - Analog data acquisition from a potentiometer using ADC.
